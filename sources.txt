@@ -1,0 +1,2 @@
+dataset: https://www.kaggle.com/datasets/equinxx/stock-tweets-for-sentiment-analysis-and-prediction
+code: https://github.com/abdulfatir/twitter-sentiment-analysis
